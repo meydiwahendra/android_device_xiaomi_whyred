@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "meydiwahendra/rr_device_xiaomi_sdm660-common",
+    "target_path": "device/xiaomi/sdm660-common",
+    "branch": "Q",
+    "remote": "github"
+  },
+  {
+    "repository": "meydiwahendra/android_kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch": "inline",
+    "remote": "github"
+  }
+
+]
